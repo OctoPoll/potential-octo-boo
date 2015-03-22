@@ -1,0 +1,11 @@
+<script type="text/javascript" src="http://i0.poll.fm/survey.js" charset="UTF-8"></script>
+<script type="text/javascript" charset="utf-8">
+  polldaddy.add( {
+    type: 'slider',
+    embed: 'poll',
+    delay: 100,
+    visit: 'single',
+    id: 8746938
+  } );
+</script>
+<noscript><a href="http://polldaddy.com/poll/8746938/">European Parliamentary Resolution on COP15</a></noscript>
